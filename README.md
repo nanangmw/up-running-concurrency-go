@@ -1,5 +1,3 @@
-# Up and Running with Concurrency in Go (Golang)
-
 # Why learn concurrency in go?
 - Improved performance (speed and scalability)
 - Trends of increased latency and multicore CPUs create both a NEED FOR and OPPORTUNITY FOR concurrency
